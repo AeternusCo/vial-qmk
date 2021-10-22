@@ -1,0 +1,12 @@
+{
+  "name": "Aeternus Isopropyl",
+  "vendorId": "0xAE7E",
+  "productId": "0x0150",
+  "lighting": "qmk_rgblight",
+  "matrix": { "rows": 1, "cols": 1 },
+  "layouts": {
+    "keymap": [
+      [{"x":0.25,"w":1.25,"h":2,"w2":1.5,"h2":1,"x2":-0.25},"0,0"]
+    ]
+  }
+}
